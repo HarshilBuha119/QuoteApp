@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.harshilbuha.QuoteApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "38bd2fa6-b9b2-4bec-84bf-5c4ebdfc2df5"
+      }
+    },
+    "owner": "harshilbuha"
   }
 }

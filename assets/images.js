@@ -1,0 +1,21 @@
+export const Images = {
+    Home: require("./Home.jpg"),
+    Facts: require("./Fact.png"),
+    Calender: require("./Calender.png"),
+    Search: require("./Search.png"),
+    Setting: require("./Setting.png"),
+    Quote:require("./Quotes.png"),
+    Bulb:require("./Bulb.png"),
+    Refresh:require("./Refresh.png"),
+    SQuote:require("./Quote.png"),
+    WSearch:require("./Wsearch.png"),
+    About:require("./About.png"),
+    Reminder:require("./Reminder.png"),
+    Export:require("./Export.png"),
+    Appearance:require("./Apperance.png"),
+    Passcode:require("./Passcode.png"),
+    Support:require("./Support.png"),
+    Next:require("./Next.png"),
+    Clock:require("./Clock.png"),
+    Person:require("./Person.png")
+}
