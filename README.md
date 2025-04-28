@@ -9,5 +9,5 @@ A simple, clean Quote App built with React Native and Expo, fetching quotes from
 🛠️ Toast Messages: Feedback for actions like missing passcodes.
 🏗️ Modal UI: Confirm changes with custom modals.
 
-[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
+[![Watch the video]](https://github.com/HarshilBuha119/QuoteApp/blob/main/Quote%20APP.mp4)
 
