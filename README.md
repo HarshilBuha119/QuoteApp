@@ -8,3 +8,6 @@ A simple, clean Quote App built with React Native and Expo, fetching quotes from
 ✨ Smooth Navigation: Supports multiple screens (Home, Facts, Calendar, Search).
 🛠️ Toast Messages: Feedback for actions like missing passcodes.
 🏗️ Modal UI: Confirm changes with custom modals.
+
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
+
